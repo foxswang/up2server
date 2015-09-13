@@ -1,15 +1,16 @@
 # 1. 确保系统安装了python
 
 #2 .get_upload_files.py
-##获取需要上传到服务器上的文件列表，并保存到指定的文件夹
+获取需要上传到服务器上的文件列表，并保存到指定的文件夹
  
-#源文件的目录  
-##fromdir = "source_folder"
-#根据filelist.txt 复制的文件存储目录
-##todir = "backup"
-#需要上传服务器的文件列表
-##filename = 'filelist.txt'
-   
+##源文件的目录  
+fromdir = "source_folder"
+##根据filelist.txt 复制的文件存储目录
+todir = "backup"
+##需要上传服务器的文件列表
+filename = 'filelist.txt'
+ 
+
 #3.backup_server_files.py
 ##备份目录文件
   todir = "backup"
