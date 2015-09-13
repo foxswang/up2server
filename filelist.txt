@@ -1,0 +1,2 @@
+/srouce_folder/admin/test.php
+/source_folder/admin/image.png
